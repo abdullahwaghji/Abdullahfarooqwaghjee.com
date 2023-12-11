@@ -1,0 +1,1 @@
+import  resume from'../images/file:///C:/Users/user/Desktop/cvf.pdf'
